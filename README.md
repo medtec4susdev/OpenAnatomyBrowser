@@ -1,5 +1,5 @@
 # OpenAnatomyBrowser
-openAnatomyBrowser description for the 27 projecct NAMIC week - Boston
+OpenAnatomyBrowser description for the 27 projecct NAMIC week - Boston
 
 Back to [Projects List](../../README.md#ProjectsList)
 

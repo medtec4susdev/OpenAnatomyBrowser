@@ -36,7 +36,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 3D Slicer Training Network.
 
-<img src="https://github.com/medtec4susdev/OpenAnatomyBrowser/blob/master/oabrowser.png" width="417" height="264">
+<img src="https://github.com/medtec4susdev/OpenAnatomyBrowser/blob/master/oabrowser.jpg" width="417" height="264">
 
 # Background and References
 

@@ -43,7 +43,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
 + Open Anatomy Browser: https://www.frontiersin.org/articles/10.3389/fninf.2017.00022/full
-+ Brief I18n Analysis:https://github.com/Mltechbox/MedTec_MACbioIDi_Internationalization/blob/master/Analysis_SystemRequirements.pdf
++ Brief I18n Analysis: https://github.com/Mltechbox/MedTec_MACbioIDi_Internationalization/blob/master/Analysis_SystemRequirements.pdf
 
 <!--Link for editing page when displayed in GitHub pages-->
 <a href="https://github.com/NA-MIC/ProjectWeek/edit/master/PW27_2018_Boston/Projects/OpenAnatomyBrowser.md">Edit this page on GitHub</a>

@@ -17,15 +17,15 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Objective
 
-1. Establish ...
-1. Establish ...
-1. Establish ...
+1. To define a strategy to follow in order to tackle i18n and l10n oa projects
+1. To study how to import/export data from/to 3DSlicer/Oabrowser
+1. Create a prototype with both projects (i18n-l10n and import/export)
 
 ## Approach and Plan
 
-1. Review ...
-1. Study ...
-1. Plan ...
+1. Study the framework and modules of oabrowser (try to solve every possible question)
+1. Review other examples
+1. Plan the whole process
 
 ## Progress and Next Steps
 
@@ -34,7 +34,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
-3D Slicer Training Network.
+Oabrowser screen.
 
 <img src="https://github.com/medtec4susdev/OpenAnatomyBrowser/blob/master/oabrowser.jpg" width="417" height="264">
 
